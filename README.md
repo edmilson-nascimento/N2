@@ -68,13 +68,13 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 * - **Lisboa** [[maps]](https://www.google.com/maps/search/?api=1&query=Lisboa)
 * - 120km (Via Autoestrada A8)
 * - **Nazaré** [[maps]](https://www.google.com/maps/search/?api=1&query=Nazare)
-*   - 📸 *Visita:* Pára a moto em frente ao Farol da Nazaré (Forte de São Miguel Arcanjo) para esticar as pernas e ver o famoso "Canhão da Nazaré".
-*   - 🍽️ *Comida:* Almoço de peixe fresco na **A Tasquinha** ou no **Rosa dos Ventos** (excelentes opções para peixe grelhado no centro da vila).
+*   - 📸 *Visita:* Pára a moto em frente ao **Farol da Nazaré (Forte de São Miguel Arcanjo)** [[maps]](https://www.google.com/maps/search/?api=1&query=Farol+da+Nazare+Forte+de+Sao+Miguel+Arcanjo) para esticar as pernas e ver o famoso "Canhão da Nazaré".
+*   - 🍽️ *Comida:* Almoço de peixe fresco na **A Tasquinha** [[maps]](https://www.google.com/maps/search/?api=1&query=A+Tasquinha+Nazare) ou no **Rosa dos Ventos** [[maps]](https://www.google.com/maps/search/?api=1&query=Rosa+dos+Ventos+Nazare) (excelentes opções para peixe grelhado no centro da vila).
 * - 220km (Via A17/A29)
 * - **Porto** [[maps]](https://www.google.com/maps/search/?api=1&query=Porto) 🏨
 *   - 🔒 *Dica Prática:* Estaciona a moto no hotel (garante que tens parque privativo, o Porto é uma cidade fantástica mas não convém deixar a moto na rua carregada).
-*   - 🍽️ *Comida:* Come uma Francesinha (recomendo o Brasão ou o Café Santiago) ao jantar.
-*   - 🚶 *Visita:* Passeio a pé pela Ribeira e Ponte D. Luís.
+*   - 🍽️ *Comida:* Come uma Francesinha (recomendo o **Brasão** [[maps]](https://www.google.com/maps/search/?api=1&query=Cervejaria+Brasao+Porto) ou o **Café Santiago** [[maps]](https://www.google.com/maps/search/?api=1&query=Cafe+Santiago+Porto)) ao jantar.
+*   - 🚶 *Visita:* Passeio a pé pela **Ribeira** [[maps]](https://www.google.com/maps/search/?api=1&query=Ribeira+do+Porto) e **Ponte D. Luís** [[maps]](https://www.google.com/maps/search/?api=1&query=Ponte+D+Luis+I+Porto).
 
 ### Dia 2: Porto ➡️ Chaves (Km 0) ➡️ Peso da Régua | 235 km
 * - 🏍️ Início do Dia 2
@@ -82,29 +82,29 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 * - 150km (Subida rápida via A3/A24)
 * - **Chaves (Início Oficial da N2 - Km 0)** [[maps]](https://www.google.com/maps/search/?api=1&query=Chaves+Km+0+N2)
 *   - 📸 *Visita:* Tira a foto obrigatória no Marco do Km 0 e levanta o Passaporte.
-*   - 🍽️ *Comida:* Janta os autênticos sabores transmontanos na histórica **Pensão Flávia** (reserva com antecedência).
+*   - 🍽️ *Comida:* Janta os autênticos sabores transmontanos na histórica **Pensão Flávia** [[maps]](https://www.google.com/maps/search/?api=1&query=Pensao+Flavia+Chaves) (reserva com antecedência).
 *   - 🥟 *Comida:* Prova o autêntico Pastel de Chaves quente.
 * - 15km
 * - **Vidago** [[maps]](https://www.google.com/maps/search/?api=1&query=Vidago)
-*   - 🏛️ *Visita:* Contempla a arquitetura do Vidago Palace e o seu parque termal centenário.
+*   - 🏛️ *Visita:* Contempla a arquitetura do **Vidago Palace** [[maps]](https://www.google.com/maps/search/?api=1&query=Vidago+Palace) e o seu parque termal centenário.
 * - 15km
 * - **Vila Pouca de Aguiar** [[maps]](https://www.google.com/maps/search/?api=1&query=Vila+Pouca+de+Aguiar)
-*   - 🏛️ *Visita:* Faz um breve desvio para espreitar o Complexo Mineiro Romano de Tresminas.
+*   - 🏛️ *Visita:* Faz um breve desvio para espreitar o **Complexo Mineiro Romano de Tresminas** [[maps]](https://www.google.com/maps/search/?api=1&query=Complexo+Mineiro+Romano+de+Tresminas).
 * - 30km
 * - **Vila Real** [[maps]](https://www.google.com/maps/search/?api=1&query=Vila+Real)
-*   - 🏛️ *Visita:* Os magníficos jardins do Palácio de Mateus.
+*   - 🏛️ *Visita:* Os magníficos jardins do **Palácio de Mateus** [[maps]](https://www.google.com/maps/search/?api=1&query=Palacio+de+Mateus+Vila+Real).
 *   - 🥧 *Comida:* Pára numa pastelaria local para comer um doce chamado "Cristas de Galo".
 * - 25km
 * - **Peso da Régua** [[maps]](https://www.google.com/maps/search/?api=1&query=Peso+da+Regua) 🏨
 *   - 🍷 *Comida:* Bebe um copo de Vinho do Porto com vista para o Rio Douro.
-*   - 🏛️ *Visita:* Museu do Douro para entender a história da região demarcada.
+*   - 🏛️ *Visita:* **Museu do Douro** [[maps]](https://www.google.com/maps/search/?api=1&query=Museu+do+Douro+Peso+da+Regua) para entender a história da região demarcada.
 
 ### Dia 3: Peso da Régua ➡️ Viseu | 82 km
 * - 🏍️ Início do Dia 3
 * - **Peso da Régua** [[maps]](https://www.google.com/maps/search/?api=1&query=Peso+da+Regua)
 * - 12km
 * - **Lamego** [[maps]](https://www.google.com/maps/search/?api=1&query=Lamego)
-*   - 🏛️ *Visita:* Santuário da Nossa Senhora dos Remédios (a escadaria é incrível).
+*   - 🏛️ *Visita:* **Santuário da Nossa Senhora dos Remédios** [[maps]](https://www.google.com/maps/search/?api=1&query=Santuario+da+Nossa+Senhora+dos+Remedios+Lamego) (a escadaria é incrível).
 *   - 🥖 *Comida:* Compra a mítica Bola de Lamego (recomendo a de carne ou presunto) para o almoço na estrada.
 * - 35km
 * - **Castro Daire** [[maps]](https://www.google.com/maps/search/?api=1&query=Castro+Daire)
@@ -112,7 +112,7 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 *   - 🍰 *Comida:* Prova o Bolo Podre de Castro Daire.
 * - 35km
 * - **Viseu** [[maps]](https://www.google.com/maps/search/?api=1&query=Viseu) 🏨
-*   - 🏛️ *Visita:* O Centro Histórico, a Sé de Viseu e a Cava de Viriato.
+*   - 🏛️ *Visita:* O Centro Histórico, a **Sé de Viseu** [[maps]](https://www.google.com/maps/search/?api=1&query=Se+de+Viseu) e a **Cava de Viriato** [[maps]](https://www.google.com/maps/search/?api=1&query=Cava+de+Viriato+Viseu).
 *   - 🥩 *Comida:* Um prato de Vitela de Lafões acompanhado por um excelente Vinho do Dão.
 
 ### Dia 4: Viseu ➡️ Lousã | 120 km
@@ -120,18 +120,18 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 * - **Viseu** [[maps]](https://www.google.com/maps/search/?api=1&query=Viseu)
 * - 25km
 * - **Tondela** [[maps]](https://www.google.com/maps/search/?api=1&query=Tondela)
-*   - 🏺 *Visita:* Conhece a Olaria de Molelos e as suas famosas louças de barro preto.
+*   - 🏺 *Visita:* Conhece a **Olaria de Molelos** [[maps]](https://www.google.com/maps/search/?api=1&query=Olaria+de+Molelos+Tondela) e as suas famosas louças de barro preto.
 * - 20km
 * - **Santa Comba Dão** [[maps]](https://www.google.com/maps/search/?api=1&query=Santa+Comba+Dao)
 *   - 🌳 *Visita:* Relaxa um pouco junto à foz do Rio Dão e à ecopista.
 * - 📸 *Visita Extra:* **Barragem da Aguieira** [[maps]](https://www.google.com/maps/search/?api=1&query=Barragem+da+Aguieira). Pouco depois de Santa Comba Dão, encosta a moto nos miradouros laterais, monta o tripé e regista o espelho de água gigantesco.
 * - 35km
 * - **Penacova** [[maps]](https://www.google.com/maps/search/?api=1&query=Penacova)
-*   - 📸 *Visita:* Miradouro de Penacova com vista panorâmica sobre as curvas do Rio Mondego.
+*   - 📸 *Visita:* **Miradouro de Penacova** [[maps]](https://www.google.com/maps/search/?api=1&query=Miradouro+de+Penacova) com vista panorâmica sobre as curvas do Rio Mondego.
 *   - 🧁 *Comida:* Adoça a viagem com as "Nevadas de Penacova".
 * - 40km
 * - **Lousã** [[maps]](https://www.google.com/maps/search/?api=1&query=Lousa) 🏨
-*   - 🏛️ *Visita:* Sobe de moto até ao Castelo da Lousã e perde-te no Talasnal (Aldeia de Xisto).
+*   - 🏛️ *Visita:* Sobe de moto até ao **Castelo da Lousã** [[maps]](https://www.google.com/maps/search/?api=1&query=Castelo+da+Lousa) e perde-te no **Talasnal (Aldeia de Xisto)** [[maps]](https://www.google.com/maps/search/?api=1&query=Talasnal+Lousa).
 *   - 🥘 *Comida:* Chanfana assada no forno a lenha e um cálice de Licor Beirão (que é original da Lousã).
 
 ### Dia 5: Lousã ➡️ Sertã | 90 km
@@ -139,7 +139,7 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 * - **Lousã** [[maps]](https://www.google.com/maps/search/?api=1&query=Lousa)
 * - 15km
 * - **Góis** [[maps]](https://www.google.com/maps/search/?api=1&query=Gois)
-*   - 🏖️ *Visita:* Estaciona e bebe um café na Praia Fluvial da Peneda.
+*   - 🏖️ *Visita:* Estaciona e bebe um café na **Praia Fluvial da Peneda** [[maps]](https://www.google.com/maps/search/?api=1&query=Praia+Fluvial+da+Peneda+Gois).
 * - 50km
 * - **Pedrógão Grande** [[maps]](https://www.google.com/maps/search/?api=1&query=Pedrogao+Grande)
 *   - 🌊 *Visita:* **Barragem do Cabril** [[maps]](https://www.google.com/maps/search/?api=1&query=Barragem+do+Cabril). A estrada passa literalmente por cima do paredão! É o local ideal para esticar as pernas, hidratar e fotografar a moto entre o abismo e o rio Zêzere.
@@ -155,7 +155,7 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 *   - 📍 *Visita:* Paragem obrigatória no Picoto da Melriça (Centro Geodésico de Portugal). Estás exatamente no meio do país!
 * - 35km
 * - **Abrantes** [[maps]](https://www.google.com/maps/search/?api=1&query=Abrantes)
-*   - 🏛️ *Visita:* Sobe ao Castelo de Abrantes para uma vista desimpedida sobre o Rio Tejo.
+*   - 🏛️ *Visita:* Sobe ao **Castelo de Abrantes** [[maps]](https://www.google.com/maps/search/?api=1&query=Castelo+de+Abrantes) para uma vista desimpedida sobre o Rio Tejo.
 *   - 🍰 *Comida:* Leva na top case o doce típico "Palha de Abrantes".
 * - 35km
 * - **Ponte de Sor** [[maps]](https://www.google.com/maps/search/?api=1&query=Ponte+de+Sor)
@@ -163,10 +163,10 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 * - 📸 *Visita Extra:* **Barragem de Montargil** [[maps]](https://www.google.com/maps/search/?api=1&query=Barragem+de+Montargil). A N2 acompanha a margem da albufeira durante vários quilómetros. Encosta, tira fotos com a água e as planícies e aproveita para fugir um pouco ao calor alentejano.
 * - 35km
 * - **Mora** [[maps]](https://www.google.com/maps/search/?api=1&query=Mora)
-*   - 🐟 *Visita:* Fluviário de Mora (ótimo para sair do calor da farda de moto por uma hora).
+*   - 🐟 *Visita:* **Fluviário de Mora** [[maps]](https://www.google.com/maps/search/?api=1&query=Fluviario+de+Mora) (ótimo para sair do calor da farda de moto por uma hora).
 * - 45km
 * - **Montemor-o-Novo** [[maps]](https://www.google.com/maps/search/?api=1&query=Montemor-o-Novo) 🏨
-*   - 🏰 *Visita:* As ruínas do imponente Castelo de Montemor-o-Novo.
+*   - 🏰 *Visita:* As ruínas do imponente **Castelo de Montemor-o-Novo** [[maps]](https://www.google.com/maps/search/?api=1&query=Castelo+de+Montemor-o-Novo).
 *   - 🥩 *Comida:* Entraste no paraíso da Carne de Porco Preto Alentejano.
 
 ### Dia 7: Montemor-o-Novo ➡️ Almodôvar | 160 km
@@ -174,13 +174,13 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 * - **Montemor-o-Novo** [[maps]](https://www.google.com/maps/search/?api=1&query=Montemor-o-Novo)
 * - 40km
 * - **Viana do Alentejo** [[maps]](https://www.google.com/maps/search/?api=1&query=Viana+do+Alentejo)
-*   - 🏛️ *Visita:* Santuário de Nossa Senhora de Aires (muito venerado pelos viajantes).
+*   - 🏛️ *Visita:* **Santuário de Nossa Senhora de Aires** [[maps]](https://www.google.com/maps/search/?api=1&query=Santuario+de+Nossa+Senhora+de+Aires+Viana+do+Alentejo) (muito venerado pelos viajantes).
 * - 45km
 * - **Ferreira do Alentejo** [[maps]](https://www.google.com/maps/search/?api=1&query=Ferreira+do+Alentejo)
-*   - ⛪ *Visita:* Capela do Calvário (a sua arquitetura forrada a pedras redondas é única).
+*   - ⛪ *Visita:* **Capela do Calvário** [[maps]](https://www.google.com/maps/search/?api=1&query=Capela+do+Calvario+Ferreira+do+Alentejo) (a sua arquitetura forrada a pedras redondas é única).
 * - 25km
 * - **Aljustrel** [[maps]](https://www.google.com/maps/search/?api=1&query=Aljustrel)
-*   - ⛰️ *Visita:* Miradouro do Santuário de Nossa Senhora do Castelo (vista de 360º sobre as planícies mineiras).
+*   - ⛰️ *Visita:* **Miradouro do Santuário de Nossa Senhora do Castelo** [[maps]](https://www.google.com/maps/search/?api=1&query=Santuario+de+Nossa+Senhora+do+Castelo+Aljustrel) (vista de 360º sobre as planícies mineiras).
 * - 30km
 * - **Castro Verde** [[maps]](https://www.google.com/maps/search/?api=1&query=Castro+Verde)
 *   - 🍽️ *Comida:* Aposta num valente Ensopado de Borrego para o almoço.
@@ -193,23 +193,23 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 * - **Almodôvar** [[maps]](https://www.google.com/maps/search/?api=1&query=Almodovar)
 * - 55km (Mítica Serra do Caldeirão — Rota das 365 curvas)
 * - **São Brás de Alportel** [[maps]](https://www.google.com/maps/search/?api=1&query=Sao+Bras+de+Alportel)
-*   - 🌳 *Visita:* Miradouro do Alto da Arroteia. Aprecia a transição entre a serra e o mar ao longe.
+*   - 🌳 *Visita:* **Miradouro do Alto da Arroteia** [[maps]](https://www.google.com/maps/search/?api=1&query=Miradouro+do+Alto+da+Arroteia+Sao+Bras+de+Alportel). Aprecia a transição entre a serra e o mar ao longe.
 * - 20km
 * - **Faro (Fim da N2 - Km 738)** [[maps]](https://www.google.com/maps/search/?api=1&query=Faro+Rotunda+N2) 🏨
-*   - 📸 *Visita:* A foto de glória na Rotunda do Km 738. Depois, caminha pela "Cidade Velha" (centro histórico rodeado de muralhas).
+*   - 📸 *Visita:* A foto de glória na Rotunda do Km 738. Depois, caminha pela **"Cidade Velha"** [[maps]](https://www.google.com/maps/search/?api=1&query=Cidade+Velha+Faro) (centro histórico rodeado de muralhas).
 *   - 🦐 *Comida:* Celebra o fim da N2 com uma Cataplana de Marisco típica do Algarve.
 
 ### Dia 9: Faro (Descanso Total) | 0 km
 * - **Faro** [[maps]](https://www.google.com/maps/search/?api=1&query=Faro)
-*   - 🏖️ *Visita:* Apanha o barco para a Ilha Deserta ou para a Praia de Faro. O dia é livre para praia, descanso e gastronomia sem tocar na moto.
+*   - 🏖️ *Visita:* Apanha o barco para a **Ilha Deserta** [[maps]](https://www.google.com/maps/search/?api=1&query=Ilha+Deserta+Faro) ou para a **Praia de Faro** [[maps]](https://www.google.com/maps/search/?api=1&query=Praia+de+Faro). O dia é livre para praia, descanso e gastronomia sem tocar na moto.
 
 ### Dia 10: Faro ➡️ Lisboa (Regresso Cénico pela Costa) | 300 km
 * - 🏍️ Início do Dia 10
 * - **Faro** [[maps]](https://www.google.com/maps/search/?api=1&query=Faro)
 * - 110km
 * - **Aljezur / Praia da Arrifana (Entrada na Costa Vicentina)** [[maps]](https://www.google.com/maps/search/?api=1&query=Praia+da+Arrifana)
-*   - 🏖️ *Visita:* Desvio obrigatório à **Praia da Arrifana** para ver as falésias imponentes.
-*   - 🍽️ *Comida:* Almoço no aclamado **Restaurante O Paulo** (Dica de amigo), literalmente pendurado na falésia, com o melhor peixe e vista para o oceano.
+*   - 🏖️ *Visita:* Desvio obrigatório à Praia da Arrifana para ver as falésias imponentes.
+*   - 🍽️ *Comida:* Almoço no aclamado **Restaurante O Paulo** [[maps]](https://www.google.com/maps/search/?api=1&query=Restaurante+O+Paulo+Arrifana) (Dica de amigo), literalmente pendurado na falésia, com o melhor peixe e vista para o oceano.
 * - 60km
 * - **Vila Nova de Milfontes** [[maps]](https://www.google.com/maps/search/?api=1&query=Vila+Nova+de+Milfontes)
 *   - 🌊 *Visita:* Pára a moto junto ao estuário onde o rio Mira desagua no mar para a última grande fotografia da viagem.
