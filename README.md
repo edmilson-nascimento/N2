@@ -2,7 +2,7 @@
 
 Fazer a Estrada Nacional 2 (N2) de moto a solo é, sem dúvida, a nossa "Route 66" e uma das melhores experiências que podes ter em duas rodas em Portugal.
 
-Ter 10 dias é o tempo perfeito — permite-te fazer a ligação de Lisboa a Chaves, descer os 738 km ao teu ritmo, desfrutar de desvios (como a paragem que queres fazer em Viseu) e regressar a Lisboa no final sem qualquer stresse. Como especialista e motard, dou-te já uma dica de ouro: a N2 não é para ser feita depressa. É para viver as curvas, parar nas tascas, falar com as pessoas e sentir a mudança drástica da paisagem de Norte a Sul.
+Ter 10 dias é o tempo perfeito — permite-te fazer a ligação de Lisboa a Chaves, descer os 738 km ao teu ritmo, desfrutar de desvios (como a paragem que queres fazer em Vouzela/Viseu) e regressar a Lisboa no final sem qualquer stresse. Como especialista e motard, dou-te já uma dica de ouro: a N2 não é para ser feita depressa. É para viver as curvas, parar nas tascas, falar com as pessoas e sentir a mudança drástica da paisagem de Norte a Sul.
 
 Vamos começar exatamente por onde pediste: o Passaporte da N2, os concelhos por onde vais passar e como domar o GPS.
 
@@ -99,7 +99,7 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
   - 🍷 *Comida:* Bebe um copo de Vinho do Porto com vista para o Rio Douro.
   - 🏛️ *Visita:* **Museu do Douro** [[maps]](https://www.google.com/maps/search/?api=1&query=Museu+do+Douro+Peso+da+Regua) para entender a história da região demarcada.
 
-### Dia 3: Peso da Régua ➡️ Viseu | 82 km
+### Dia 3: Peso da Régua ➡️ Vouzela (O Desvio de Lafões) | 77 km
 - 🏍️ Início do Dia 3
 - **Peso da Régua** [[maps]](https://www.google.com/maps/search/?api=1&query=Peso+da+Regua)
 - 12km
@@ -110,14 +110,19 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 - **Castro Daire** [[maps]](https://www.google.com/maps/search/?api=1&query=Castro+Daire)
   - ⛰️ *Dica Prática:* Aproveita as vistas incríveis das curvas da Serra de Montemuro.
   - 🍰 *Comida:* Prova o Bolo Podre de Castro Daire.
-- 35km
-- **Viseu** [[maps]](https://www.google.com/maps/search/?api=1&query=Viseu) 🏨
-  - 🏛️ *Visita:* O Centro Histórico, a **Sé de Viseu** [[maps]](https://www.google.com/maps/search/?api=1&query=Se+de+Viseu) e a **Cava de Viriato** [[maps]](https://www.google.com/maps/search/?api=1&query=Cava+de+Viriato+Viseu).
-  - 🥩 *Comida:* Um prato de Vitela de Lafões acompanhado por um excelente Vinho do Dão.
+- 30km (Desvio panorâmico da N2 em direção a Lafões)
+- **Vouzela** [[maps]](https://maps.google.com/?q=Vouzela) 🏨
+  - 🔒 *Dica Prática:* Estaciona a moto na casa dos amigos Rafael e Jessica Silva (ou no hotel).
+  - 📸 *Visita:* Passeio a pé pela **Ponte Romana de Vouzela** [[maps]](https://maps.google.com/?q=Pastel+de+Vouzela) e a bela **Igreja da Misericórdia** [[maps]](https://www.google.com/maps/search/?api=1&query=Vouzela) com a sua fachada de azulejos.
+  - 🍽️ *Comida:* Janta a famosa Vitela de Lafões na **Tasquinha de Lafões** [[maps]](https://www.google.com/maps/search/?api=1&query=...) e obrigatoriamente pede o doce conventual **Pastel de Vouzela** para a sobremesa!
 
-### Dia 4: Viseu ➡️ Lousã | 120 km
+### Dia 4: Vouzela ➡️ Viseu ➡️ Lousã | 150 km
 - 🏍️ Início do Dia 4
+- **Vouzela** [[maps]](https://maps.google.com/?q=Vouzela)
+- 30km (Regresso à rota N2)
 - **Viseu** [[maps]](https://www.google.com/maps/search/?api=1&query=Viseu)
+  - 🛂 *Passaporte:* Não te esqueças de carimbar o teu Passaporte N2 no concelho nº 9!
+  - 🏛️ *Visita:* O Centro Histórico, a **Sé de Viseu** [[maps]](https://www.google.com/maps/search/?api=1&query=Se+de+Viseu) e a **Cava de Viriato** [[maps]](https://www.google.com/maps/search/?api=1&query=Cava+de+Viriato+Viseu).
 - 25km
 - **Tondela** [[maps]](https://www.google.com/maps/search/?api=1&query=Tondela)
   - 🏺 *Visita:* Conhece a **Olaria de Molelos** [[maps]](https://www.google.com/maps/search/?api=1&query=Olaria+de+Molelos+Tondela) e as suas famosas louças de barro preto.
