@@ -111,10 +111,10 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
   - ⛰️ *Dica Prática:* Aproveita as vistas incríveis das curvas da Serra de Montemuro.
   - 🍰 *Comida:* Prova o Bolo Podre de Castro Daire.
 - 30km (Desvio panorâmico da N2 em direção a Lafões)
-- **Vouzela** [[maps]](https://maps.google.com/?q=Vouzela) 🏨
-  - 🔒 *Dica Prática:* Estaciona a moto na casa dos amigos Rafael e Jessica Silva (ou no hotel).
+- **Vouzela** [[maps]](https://maps.google.com/?q=Vouzela) 🏠
+  - 🔒 *Dica Prática:* Descanso merecido! Estaciona a moto e dorme na casa dos amigos Jessica e Rafa.
   - 📸 *Visita:* Passeio a pé pela **Ponte Romana de Vouzela** [[maps]](https://maps.google.com/?q=Pastel+de+Vouzela) e a bela **Igreja da Misericórdia** [[maps]](https://www.google.com/maps/search/?api=1&query=Vouzela) com a sua fachada de azulejos.
-  - 🍽️ *Comida:* Janta a famosa Vitela de Lafões na **Tasquinha de Lafões** [[maps]](https://www.google.com/maps/search/?api=1&query=...) e obrigatoriamente pede o doce conventual **Pastel de Vouzela** para a sobremesa!
+  - 🍽️ *Comida:* Janta a famosa Vitela de Lafões na **Tasquinha de Lafões** [[maps]](https://www.google.com/maps/search/?api=1&query=) e obrigatoriamente pede o doce conventual **Pastel de Vouzela** para a sobremesa!
 
 ### Dia 4: Vouzela ➡️ Viseu ➡️ Lousã | 150 km
 - 🏍️ Início do Dia 4
