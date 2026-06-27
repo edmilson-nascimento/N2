@@ -4,7 +4,7 @@ Fazer a Estrada Nacional 2 (N2) de moto sozinho é, sem dúvida, a nossa "Route 
 
 Ter 10 dias é o tempo perfeito — permite que você faça a ligação de Lisboa a Chaves, desça os 738 km no seu ritmo, curta os desvios (como a parada que você quer fazer em Vouzela/Viseu) e volte para Lisboa no final sem nenhum estresse. Como especialista e motociclista, já te dou uma dica de ouro: a N2 não é para ser feita com pressa. É para viver as curvas, parar nas tascas, conversar com as pessoas e sentir a mudança drástica da paisagem de Norte a Sul.
 
-Vamos começar exatamente por onde você pediu: o Passaporte da N2, os municípios por onde você vai passar e como domar o GPS.
+Fiz este guia para me guiar e não me perder (rs), e também para que amigos e familiares possam acompanhar comigo essa viagem legal por este país que também já virou minha casa. Para começar, o essencial: o Passaporte da N2, os municípios por onde vou passar e como domar o GPS.
 
 ## 🧭 Legenda dos Ícones
 
