@@ -6,7 +6,7 @@ Ter 10 dias é o tempo perfeito — permite que você faça a ligação de Lisbo
 
 Fiz este guia para me guiar e não me perder (rs), e também para que amigos e familiares possam acompanhar comigo essa viagem legal por este país que também já virou minha casa. Para começar, o essencial: o Passaporte da N2, os municípios por onde vou passar e como domar o GPS.
 
-![Mapa da Estrada Nacional 2 (N2) de Chaves a Faro, com os municípios numerados, rios e serras](img/Mapa-N2-724x1024.jpg)
+![Mapa da Estrada Nacional 2 (N2) de Chaves a Faro, com os municípios numerados, rios e serras](img/mapa.jpg)
 
 *A N2 de ponta a ponta: de Chaves (Km 0, no Norte) até Faro (Km 738, no Algarve).*
 
@@ -31,6 +31,10 @@ Para você se orientar ao longo do guia:
 - 🔒 — Dica prática (segurança, estacionamento)
 
 ## O Passaporte da N2 e os 35 Municípios
+
+![Capa do Passaporte oficial da Rota Estrada Nacional 2, com a lista dos municípios de Chaves a Faro](img/passaporte.jpg)
+
+*O Passaporte oficial da N2 — é nele que vão os carimbos de cada município ao longo do caminho.*
 
 O Passaporte é o seu companheiro de viagem. O ideal é comprá-lo logo no Posto de Turismo de Chaves (perto do icônico marco do km 0) por um valor simbólico (cerca de 1€ a 2€).
 
