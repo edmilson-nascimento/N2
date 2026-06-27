@@ -91,7 +91,7 @@ Durante a viagem, você vai carimbando o passaporte em postos de turismo, prefei
   - 📸 *Visita:* Pare a moto em frente ao **Farol da Nazaré (Forte de São Miguel Arcanjo)** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Farol+da+Nazare+Forte+de+Sao+Miguel+Arcanjo) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Farol+da+Nazare+Forte+de+Sao+Miguel+Arcanjo) para esticar as pernas e ver o famoso "Canhão da Nazaré".
   - 🍽️ *Comida:* Almoço de peixe fresco na **A Tasquinha** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=A+Tasquinha+Nazare) | [📷 fotos](https://www.google.com/search?tbm=isch&q=A+Tasquinha+Nazare) ou no **Rosa dos Ventos** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Rosa+dos+Ventos+Nazare) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Rosa+dos+Ventos+Nazare) (excelentes opções de peixe grelhado no centro da vila).
 - 220km (Via A17/A29)
-- **Porto** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Porto) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Porto) 🏨
+- **Porto** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Porto) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Porto) — 🏨 pernoite
   - 🔒 *Dica Prática:* Estacione a moto no hotel (certifique-se de que tem estacionamento privativo; o Porto é uma cidade fantástica, mas não é aconselhável deixar a moto carregada na rua).
   - 🍽️ *Comida:* Coma uma Francesinha (recomendo o **Brasão** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Cervejaria+Brasao+Porto) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Cervejaria+Brasao+Porto) ou o **Café Santiago** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Cafe+Santiago+Porto) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Cafe+Santiago+Porto)) no jantar.
   - 🚶 *Visita:* Passeio a pé pela **Ribeira** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Ribeira+do+Porto) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Ribeira+do+Porto) e **Ponte D. Luís** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Ponte+D+Luis+I+Porto) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Ponte+D+Luis+I+Porto).
@@ -115,7 +115,7 @@ Durante a viagem, você vai carimbando o passaporte em postos de turismo, prefei
   - 🏛️ *Visita:* Os magníficos jardins do **Palácio de Mateus** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Palacio+de+Mateus+Vila+Real) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Palacio+de+Mateus+Vila+Real).
   - 🥧 *Comida:* Pare em uma confeitaria local para comer um doce chamado "Cristas de Galo".
 - 25km
-- **Peso da Régua** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Peso+da+Regua) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Peso+da+Regua) 🏨
+- **Peso da Régua** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Peso+da+Regua) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Peso+da+Regua) — 🏨 pernoite
   - 🍷 *Comida:* Beba uma taça de Vinho do Porto com vista para o Rio Douro.
   - 🏛️ *Visita:* **Museu do Douro** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Museu+do+Douro+Peso+da+Regua) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Museu+do+Douro+Peso+da+Regua) para entender a história da região demarcada.
 
@@ -131,7 +131,7 @@ Durante a viagem, você vai carimbando o passaporte em postos de turismo, prefei
   - ⛰️ *Dica Prática:* Aproveite as vistas incríveis das curvas da Serra de Montemuro.
   - 🍰 *Comida:* Prove o Bolo Podre de Castro Daire.
 - 30km (Desvio panorâmico da N2 em direção a Lafões)
-- **Vouzela** [🗺️ mapa](https://maps.google.com/?q=Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Vouzela) 🏠
+- **Vouzela** [🗺️ mapa](https://maps.google.com/?q=Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Vouzela) — 🏠 pernoite (casa de amigos)
   - 🔒 *Dica Prática:* Descanso merecido! Estacione a moto e durma na casa dos amigos Jessica e Rafa.
   - 📸 *Visita:* Passeio a pé pela **Ponte Romana de Vouzela** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Ponte+Romana+de+Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Ponte+Romana+de+Vouzela) e a bela **Igreja da Misericórdia** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Igreja+da+Misericordia+Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Igreja+da+Misericordia+Vouzela) com a sua fachada de azulejos.
   - 🍽️ *Comida:* Jante a famosa Vitela de Lafões na **Tasquinha de Lafões** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Tasquinha+de+Lafoes+Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Tasquinha+de+Lafoes+Vouzela) e peça obrigatoriamente o doce conventual **Pastel de Vouzela** de sobremesa!
@@ -155,7 +155,7 @@ Durante a viagem, você vai carimbando o passaporte em postos de turismo, prefei
   - 📸 *Visita:* **Miradouro de Penacova** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Miradouro+de+Penacova) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Miradouro+de+Penacova) com vista panorâmica sobre as curvas do Rio Mondego.
   - 🧁 *Comida:* Adoce a viagem com as "Nevadas de Penacova".
 - 40km
-- **Lousã** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Lousa) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Lousa) 🏨
+- **Lousã** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Lousa) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Lousa) — 🏨 pernoite
   - 🏛️ *Visita:* Suba de moto até o **Castelo da Lousã** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Castelo+da+Lousa) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Castelo+da+Lousa) e perca-se no **Talasnal (Aldeia de Xisto)** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Talasnal+Lousa) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Talasnal+Lousa).
   - 🥘 *Comida:* Chanfana assada no forno a lenha e um cálice de Licor Beirão (que é original da Lousã).
 
@@ -169,7 +169,7 @@ Durante a viagem, você vai carimbando o passaporte em postos de turismo, prefei
 - **Pedrógão Grande** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Pedrogao+Grande) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Pedrogao+Grande)
   - 🌊 *Visita:* **Barragem do Cabril** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Barragem+do+Cabril) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Barragem+do+Cabril). A estrada passa literalmente por cima do paredão! É o lugar ideal para esticar as pernas, se hidratar e fotografar a moto entre o abismo e o rio Zêzere.
 - 25km
-- **Sertã** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Serta) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Serta) 🏨
+- **Sertã** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Serta) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Serta) — 🏨 pernoite
   - 🍽️ *Comida:* Para o jantar, peça os tradicionais Maranhos da Sertã ou o Bucho Recheado.
 
 ### Dia 6: Sertã ➡️ Montemor-o-Novo | 175 km
@@ -190,7 +190,7 @@ Durante a viagem, você vai carimbando o passaporte em postos de turismo, prefei
 - **Mora** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Mora) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Mora)
   - 🐟 *Visita:* **Fluviário de Mora** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Fluviario+de+Mora) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Fluviario+de+Mora) (ótimo para sair do calor da roupa de moto por uma hora).
 - 45km
-- **Montemor-o-Novo** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Montemor-o-Novo) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Montemor-o-Novo) 🏨
+- **Montemor-o-Novo** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Montemor-o-Novo) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Montemor-o-Novo) — 🏨 pernoite
   - 🏰 *Visita:* As ruínas do imponente **Castelo de Montemor-o-Novo** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Castelo+de+Montemor-o-Novo) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Castelo+de+Montemor-o-Novo).
   - 🥩 *Comida:* Você entrou no paraíso da Carne de Porco Preto Alentejano.
 
@@ -210,7 +210,7 @@ Durante a viagem, você vai carimbando o passaporte em postos de turismo, prefei
 - **Castro Verde** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Castro+Verde) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Castro+Verde)
   - 🍽️ *Comida:* Aposte em um caprichado Ensopado de Borrego no almoço.
 - 20km
-- **Almodôvar** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Almodovar) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Almodovar) 🏨
+- **Almodôvar** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Almodovar) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Almodovar) — 🏨 pernoite
   - 🥃 *Comida:* Depois de encostar a moto, tome uma Aguardente de Medronho produzida na serra algarvia ali do lado.
 
 ### Dia 8: Almodôvar ➡️ Faro (O Final da N2) | 75 km
@@ -220,7 +220,7 @@ Durante a viagem, você vai carimbando o passaporte em postos de turismo, prefei
 - **São Brás de Alportel** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Sao+Bras+de+Alportel) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Sao+Bras+de+Alportel)
   - 🌳 *Visita:* **Miradouro do Alto da Arroteia** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Miradouro+do+Alto+da+Arroteia+Sao+Bras+de+Alportel) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Miradouro+do+Alto+da+Arroteia+Sao+Bras+de+Alportel). Aprecie a transição entre a serra e o mar ao longe.
 - 20km
-- **Faro (Fim da N2 - Km 738)** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Faro+Rotunda+N2) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Faro+Rotunda+N2) 🏨
+- **Faro (Fim da N2 - Km 738)** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Faro+Rotunda+N2) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Faro+Rotunda+N2) — 🏨 pernoite
   - 📸 *Visita:* A foto de glória na Rotatória do Km 738. Depois, caminhe pela **"Cidade Velha"** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Cidade+Velha+Faro) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Cidade+Velha+Faro) (centro histórico cercado de muralhas).
   - 🦐 *Comida:* Celebre o fim da N2 com uma Cataplana de Marisco típica do Algarve.
 
@@ -239,7 +239,7 @@ Durante a viagem, você vai carimbando o passaporte em postos de turismo, prefei
 - **Vila Nova de Milfontes** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Vila+Nova+de+Milfontes) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Vila+Nova+de+Milfontes)
   - 🌊 *Visita:* Pare a moto junto ao estuário onde o rio Mira deságua no mar para a última grande fotografia da viagem.
 - 130km
-- **Lisboa** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Lisboa) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Lisboa) 🏨
+- **Lisboa** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Lisboa) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Lisboa) — 🏨 pernoite
   - 🏁 *Visita:* Fim da viagem! Chegada em segurança.
 
 ---
