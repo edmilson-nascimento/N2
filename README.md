@@ -6,6 +6,10 @@ Ter 10 dias é o tempo perfeito — permite que você faça a ligação de Lisbo
 
 Fiz este guia para me guiar e não me perder (rs), e também para que amigos e familiares possam acompanhar comigo essa viagem legal por este país que também já virou minha casa. Para começar, o essencial: o Passaporte da N2, os municípios por onde vou passar e como domar o GPS.
 
+![Mapa da Estrada Nacional 2 (N2) de Chaves a Faro, com os municípios numerados, rios e serras](img/Mapa-N2-724x1024.jpg)
+
+*A N2 de ponta a ponta: de Chaves (Km 0, no Norte) até Faro (Km 738, no Algarve).*
+
 ## 🧭 Legenda dos Ícones
 
 Para você se orientar ao longo do guia:
