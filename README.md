@@ -6,6 +6,26 @@ Ter 10 dias é o tempo perfeito — permite-te fazer a ligação de Lisboa a Cha
 
 Vamos começar exatamente por onde pediste: o Passaporte da N2, os concelhos por onde vais passar e como domar o GPS.
 
+## 🧭 Legenda dos Ícones
+
+Para te orientares ao longo do guia:
+
+**Links** (toca para abrir):
+- 🗺️ **mapa** — localização no Google Maps
+- 📷 **fotos** — imagens do local no Google Imagens (para "espreitares" antes de chegar)
+
+**Estrutura da viagem:**
+- 🏍️ Início da etapa / arranque do dia
+- 🏨 Dormida (hotel/alojamento)
+- 🏠 Dormida (casa de amigos)
+- 🛂 Carimbo do Passaporte N2
+- 🏁 Fim da viagem
+
+**Nas paragens:**
+- 📸 🏛️ 🌳 🏖️ ⛪ ⛰️ 🏺 📍 🐟 🌊 🚶 — Visita / ponto de interesse
+- 🍽️ 🥖 🍰 🍷 🥃 🥩 🥘 🧁 🥟 🦐 — Comida & bebida típica
+- 🔒 — Dica prática (segurança, estacionamento)
+
 ## O Passaporte da N2 e os 35 Concelhos
 
 O Passaporte é o teu companheiro de viagem. O ideal é comprá-lo logo no Posto de Turismo de Chaves (perto do icónico marco do km 0) por um valor simbólico (cerca de 1€ a 2€).
@@ -113,7 +133,7 @@ Durante a viagem, vais carimbando o passaporte em postos de turismo, câmaras mu
 - 30km (Desvio panorâmico da N2 em direção a Lafões)
 - **Vouzela** [🗺️ mapa](https://maps.google.com/?q=Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Vouzela) 🏠
   - 🔒 *Dica Prática:* Descanso merecido! Estaciona a moto e dorme na casa dos amigos Jessica e Rafa.
-  - 📸 *Visita:* Passeio a pé pela **Ponte Romana de Vouzela** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Ponte+Romana+de+Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Ponte+Romana+de+Vouzela) e a bela **Igreja da Misericórdia** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Vouzela) com a sua fachada de azulejos.
+  - 📸 *Visita:* Passeio a pé pela **Ponte Romana de Vouzela** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Ponte+Romana+de+Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Ponte+Romana+de+Vouzela) e a bela **Igreja da Misericórdia** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Igreja+da+Misericordia+Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Igreja+da+Misericordia+Vouzela) com a sua fachada de azulejos.
   - 🍽️ *Comida:* Janta a famosa Vitela de Lafões na **Tasquinha de Lafões** [🗺️ mapa](https://www.google.com/maps/search/?api=1&query=Tasquinha+de+Lafoes+Vouzela) | [📷 fotos](https://www.google.com/search?tbm=isch&q=Tasquinha+de+Lafoes+Vouzela) e obrigatoriamente pede o doce conventual **Pastel de Vouzela** para a sobremesa!
 
 ### Dia 4: Vouzela ➡️ Viseu ➡️ Lousã | 150 km
